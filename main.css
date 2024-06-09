@@ -1,0 +1,21 @@
+ body{
+    font-family: 'Caveat', sans-serif;
+    text-align: center;
+    transform: translateY(50%);
+    padding-left: 0;
+    padding-right: 0;
+ }
+.first{
+    margin-bottom: 20px;
+}
+.email{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.page{
+    padding: 50px 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+
+
+}
